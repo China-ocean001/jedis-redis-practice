@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Local configuration files
+*.properties
+*.xml
+
+# Dependency directories
+lib/
+libs/
+
+# Generated files
+bin/
+gen/redis_data/
